@@ -1,0 +1,1 @@
+class ADIntegration: pass

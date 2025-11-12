@@ -1,0 +1,10 @@
+app:
+  name: AIDES-Windows
+  log_level: INFO
+collectors:
+  enable_etw: true
+  enable_wmi: true
+storage:
+  sqlite_path: data/aides.db
+ml:
+  model_dir: data/models
